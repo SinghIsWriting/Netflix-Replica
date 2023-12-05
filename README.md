@@ -36,4 +36,9 @@ Contributions are welcome! Feel free to submit issues or pull requests for any e
 The project draws inspiration from the Netflix interface and design.
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
+
+Feel free to explore and use the Text Utilities website for formatting and manipulating your text as needed. Enjoy!
+
+If you have any questions or encounter any issues, please contact us at [sabhisheksignh343104@gmail.com].
+
