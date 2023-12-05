@@ -18,7 +18,7 @@ The project aims to recreate the Netflix homepage in a responsive manner, allowi
 To view the project, simply access the deployed site [here](https://singhiswriting.github.io/Netflix-Replica/) (insert link to deployed site).
 
 <p align="center">
-<img width="80%"src="https://github.com/SinghIsWriting/Netflix-Replica/assets/122283853/95c1fde3-36f1-449b-9317-54478df6c59c"/>
+<img width="60%" height="70%" src="https://github.com/SinghIsWriting/Netflix-Replica/assets/122283853/95c1fde3-36f1-449b-9317-54478df6c59c"/>
 </a>
 </p>
 
