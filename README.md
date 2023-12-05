@@ -21,7 +21,7 @@ To run the project locally:
 
 1. Clone the repository:
 ```
- git clone https://github.com/yourusername/Netflix-Clone-Responsive.git
+ git clone https://github.com/SinghIsWriting/Netflix-Replica.git
 ```
 2. Open `index.html` in your preferred browser.
 
